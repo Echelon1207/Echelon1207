@@ -15,6 +15,7 @@
 - [Test-Suites and Test-Cases](https://github.com/Echelon1207/test-cases.git)
 - [Bug-Reports](https://github.com/Echelon1207/bug-reports.git)
 - [Selenium](https://github.com/Echelon1207/Selenium.git)
+- [Python](https://github.com/Echelon1207/Python_course_skillbox.git)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/anastasiya_niko_/)
