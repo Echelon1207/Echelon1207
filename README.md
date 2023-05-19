@@ -14,6 +14,8 @@
 - [Checklists](https://github.com/Echelon1207/checklist.git)
 - [Test-Suites and Test-Cases](https://github.com/Echelon1207/test-cases.git)
 - [Bug-Reports](https://github.com/Echelon1207/bug-reports.git)
+
+### Selenium & Python
 - [Selenium](https://github.com/Echelon1207/Selenium.git)
 - [Python](https://github.com/Echelon1207/Python_course_skillbox.git)
 
